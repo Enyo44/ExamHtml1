@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+html {
+    height: 100%;
+}
+
+#navbar1 {
+    background: linear-gradient(0deg, rgba(251,33,117,1) 0%, rgba(234,76,137,1) 100%) ;
+}
+
+#namebrand { font-style: bold;
+    font-family: 'Bebas' sans serif;
+    font-weight: 500;
+    font-size: 23px;
+    color: white;
+    text-decoration: none;
+}
+.nav-link  {
+    color: white;
+    
+}
+
+.nav-link :active  {
+    color: rgb(0, 0, 0);
+    
+}
+#header {
+    height:350px;
+    background-image: url("/Users/ambrelazaro/Siteexamassociation/plan_cancer_304603947_Drupal.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#headertext {
+    color: white;
+    font-size: 20px;
+}
+
+#presentation {
+    margin-top: 50px;
+    padding-bottom: 50px;
+}
+#argument {
+    font-size: 15px;
+}
+
+#why {
+    padding: 10px;
+    color: white;
+    background: linear-gradient(0deg, rgba(251,33,117,1) 0%, rgba(234,76,137,1) 100%);
+    border-radius: 20px;
+}
+
