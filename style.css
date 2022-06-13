@@ -49,4 +49,16 @@ html {
     background: linear-gradient(0deg, rgba(251,33,117,1) 0%, rgba(234,76,137,1) 100%);
     border-radius: 20px;
 }
-
+#textbenevole {
+    font-size: 12px;
+}
+#titlebenevole {
+    font-size: 20px;
+    color: rgba(251,33,117,1);
+}
+#submitbutton {
+    background: linear-gradient(0deg, rgba(251,33,117,1) 0%, rgba(234,76,137,1) 100%);
+    color:white;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
