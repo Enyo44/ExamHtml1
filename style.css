@@ -68,5 +68,20 @@ html {
         font-size: 15px;
 
     }
+}
 
+#HeaderEv {
+    color: white;
+    height: 500px;
+    width: 100%;
+    background-image: url("/Users/ambrelazaro/ExamHtml/AGA89241.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+H2 { 
+    padding: 10px 10px 10px 10px;
+    border:  5px solid ;
+    border-color: white;
+    border-radius: 30px 30px;
 }
