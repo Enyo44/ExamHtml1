@@ -29,7 +29,7 @@ html {
 }
 #header {
     height:350px;
-    background-image: url("/Users/ambrelazaro/ExamHtml/medias/plan_cancer_304603947_Drupal.jpg");
+    background-image: url("./medias/plan_cancer_304603947_Drupal.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -81,7 +81,7 @@ html {
     color: white;
     height: 500px;
     width: 100%;
-    background-image: url("/Users/ambrelazaro/ExamHtml/medias/marathoncontrelecancer.jpg");
+    background-image: url("./medias/marathoncontrelecancer.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
